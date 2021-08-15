@@ -5,3 +5,33 @@
 body{
     font-size: 15px;
 }
+.content{
+    width:20%;
+    margin:0 auto;
+}
+h2,h3{
+    text-align: center;
+    margin-right: 15%;
+    font-weight: lighter;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: dimgray;
+}
+a{
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a:hover{
+    text-decoration: underline;
+}
+#btn_next{
+    border: none;
+    background-color:royalblue;
+    width:50px;
+    height: 20px;
+    color: white;
+}
